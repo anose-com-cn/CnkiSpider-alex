@@ -1,9 +1,0 @@
-.DS_Store
-/.quarantine
-/.tmb
-*~
-*pyc
-/nbproject/*
-.buildpath
-.project
-.settings
